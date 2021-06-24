@@ -15,7 +15,8 @@ This project came to mind after our difficulties to find good, well coded, MIT l
 2. 07/02/2021 - Launch on [PancakeSwap](https://exchange.pancakeswap.finance/)
 3. Website & Marketing
 4. Contracts Scouting, Dev and Publication
-5. Contract Development Consultancy
+5. Solidity & Smart Contract Development Training Production
+6. Contract Development Consultancy
 
 ## Social
 - Telegram: https://t.me/solidcontracts
