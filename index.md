@@ -19,7 +19,7 @@ This project came to mind after our difficulties to find good, well coded, MIT l
 6. Contract Development Consultancy
 
 ## Social
-- Telegram: https://t.me/solidcontracts
+- [Telegram](https://t.me/solidcontracts): t.me/solidcontracts 
 
 ## Trade SOLID
 1. 06/25/2021 - Presale on [DxSale](https://dxsale.app/)
