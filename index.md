@@ -24,4 +24,8 @@ This project came to mind after our difficulties to find good, well coded, MIT l
 1. 06/25/2021 - Presale on [DxSale](https://dxsale.app/)
 2. 07/02/2021 - Launch on PancakeSwap
 
+## Contract
+0x1D8D1826460E14A996D32EcdC1d9EC2891c9502c
+https://bscscan.com/address/0x1D8D1826460E14A996D32EcdC1d9EC2891c9502c
+
 
