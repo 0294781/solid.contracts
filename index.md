@@ -18,7 +18,7 @@ This project came to mind after our difficulties to find good, well coded, MIT l
 5. Contract Development Consultancy
 
 ## Social
-- Telegram: 
+- Telegram: https://t.me/solidcontracts
 
 ## Trade Daric
 1. 06/25/2021 - Presale on [DxSale](https://dxsale.app/)
