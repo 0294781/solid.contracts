@@ -20,7 +20,7 @@ This project came to mind after our difficulties to find good, well coded, MIT l
 ## Social
 - Telegram: https://t.me/solidcontracts
 
-## Trade Daric
+## Trade SOLID
 1. 06/25/2021 - Presale on [DxSale](https://dxsale.app/)
 2. 07/02/2021 - Launch on PancakeSwap
 
