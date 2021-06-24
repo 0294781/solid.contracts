@@ -12,7 +12,7 @@ This project came to mind after our difficulties to find good, well coded, MIT l
 
 ## Roadmap
 1. 06/25/2021 - Presale on [DxSale](https://dxsale.app/)
-2. 07/02/2021 - Launch on PancakeSwap
+2. 07/02/2021 - Launch on [PancakeSwap](https://exchange.pancakeswap.finance/)
 3. Website & Marketing
 4. Contracts Scouting, Dev and Publication
 5. Contract Development Consultancy
@@ -22,10 +22,9 @@ This project came to mind after our difficulties to find good, well coded, MIT l
 
 ## Trade SOLID
 1. 06/25/2021 - Presale on [DxSale](https://dxsale.app/)
-2. 07/02/2021 - Launch on PancakeSwap
+2. 07/02/2021 - Launch on [PancakeSwap](https://exchange.pancakeswap.finance/)
 
 ## Contract
-0x1D8D1826460E14A996D32EcdC1d9EC2891c9502c
-https://bscscan.com/address/0x1D8D1826460E14A996D32EcdC1d9EC2891c9502c
+[0x1D8D1826460E14A996D32EcdC1d9EC2891c9502c](https://bscscan.com/address/0x1D8D1826460E14A996D32EcdC1d9EC2891c9502c)
 
 
