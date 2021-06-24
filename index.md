@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Solid Contracts
 
-You can use the [editor on GitHub](https://github.com/0294781/solid.contracts/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Why
+This project came to mind after our difficulties to find good, well coded, MIT licensed Smart Contracts (ERC20, BEP20, etc). We will scout and list them by features, as well as publish handful resources to deploy them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Features
+- 6% Transaction Fee, 3% automatically added to LP, 3% reflection (will be readjusted as needed).
+- Total Supply: 10,000,000,000
+- Liquidity Locked Forever
+- 3% Dev and Marketing Locked Wallet, unlocked with 10 instalment over 1 year
 
-### Markdown
+## Security
+- 1 Day Contract Timelock feature (all contract functions need to be enabled 1 day before change)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Roadmap
+1. 06/25/2021 - Presale on [DxSale](https://dxsale.app/)
+2. 07/02/2021 - Launch on PancakeSwap
+3. Website & Marketing
+4. Contracts Scouting, Dev and Publication
+5. Contract Development Consultancy
 
-```markdown
-Syntax highlighted code block
+## Social
+- Telegram: 
 
-# Header 1
-## Header 2
-### Header 3
+## Trade Daric
+1. 06/25/2021 - Presale on [DxSale](https://dxsale.app/)
+2. 07/02/2021 - Launch on PancakeSwap
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/0294781/solid.contracts/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
