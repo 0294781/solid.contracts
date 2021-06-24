@@ -4,10 +4,10 @@ This project came to mind after our difficulties to find good, well coded, MIT l
 ## Features
 - 6% Transaction Fee, 3% automatically added to LP, 3% reflection (will be readjusted as needed).
 - Total Supply: 10,000,000,000
-- Liquidity Locked Forever
 - 3% Dev and Marketing Locked Wallet, unlocked with 10 instalment over 1 year
 
 ## Security
+- Liquidity Locked Forever
 - 1 Day Contract Timelock feature (all contract functions need to be enabled 1 day before change)
 
 ## Roadmap
