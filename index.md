@@ -1,5 +1,3 @@
-# Solid Contracts
-
 ## Why
 This project came to mind after our difficulties to find good, well coded, MIT licensed Smart Contracts (ERC20, BEP20, etc). We will scout and list them by features, as well as publish handful resources to deploy them.
 
