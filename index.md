@@ -1,4 +1,4 @@
-## Why
+## What & Why
 Too many rug pull and scam out there, we want to provide the best tools to safecheck contracts, with API service so all can benefit.
 We also aim to become the go-to resource for good, well coded, MIT licensed Smart Contracts (ERC20, BEP20, etc), listed by features.
 Finally, we will provide handfull resources and tools to help you deploy your contracts.
