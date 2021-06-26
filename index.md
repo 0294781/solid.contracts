@@ -1,8 +1,10 @@
 ## Why
-This project came to mind after our difficulties to find good, well coded, MIT licensed Smart Contracts (ERC20, BEP20, etc). We will scout and list them by features, as well as publish handful resources to deploy them.
+Too many rug pull and scam out there, we want to provide the best tools to safecheck contracts, with API service so all can benefit.
+We also aim to become the go-to resource for good, well coded, MIT licensed Smart Contracts (ERC20, BEP20, etc), listed by features.
+Finally, we will provide handfull resources and tools to help you deploy your contracts.
 
-## Features
-- 6% Transaction Fee, 3% automatically added to LP, 3% reflection (will be readjusted as needed).
+## Tokenomics
+- 6% Transaction Fee, 3% automatically added to LP, 3% reflection.
 - Total Supply: 10,000,000,000
 - 5% Dev and Marketing Locked Wallet, unlocked with 10 instalment over 1 year
 
@@ -16,7 +18,8 @@ This project came to mind after our difficulties to find good, well coded, MIT l
 3. Website & Marketing
 4. Contract Safecheck Tool Development
 5. Contracts Scouting, Dev and Publication
-6. Solidity & Smart Contract Development Training Production
+6. API Development
+7. Solidity & Smart Contract Development Training Production
 
 ## Social
 - [Telegram](https://t.me/solidcontracts): t.me/solidcontracts 
