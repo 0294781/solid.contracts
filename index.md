@@ -6,7 +6,7 @@ Finally, we will provide handfull resources and tools to help you deploy your co
 ## Tokenomics
 - 6% Transaction Fee, 3% automatically added to LP, 3% reflection.
 - Total Supply: 10,000,000,000
-- 5% Dev and Marketing Locked Wallet, unlocked with 10 instalment over 1 year
+- 5% Dev and Marketing Wallet
 
 ## Security
 - Liquidity Locked for 1 year
